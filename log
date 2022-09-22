@@ -21,3 +21,6 @@ arrow functions.
 
 21/09/2022 - Studio approfondito di javascript: arrays, objects, dot vs bracket notation, for loops, while loops, 
 DOM manipulation(selecting and manipulating elements, click events), DRY principles.
+
+22/09/2022 - Completamento di configurazione di un router, connessione al router via ssh, possibilità di interagire con l'esterno.
+Proseguimento degli esercizi con netcat
