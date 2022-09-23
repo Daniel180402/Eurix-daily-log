@@ -23,4 +23,6 @@ arrow functions.
 DOM manipulation(selecting and manipulating elements, click events), DRY principles.
 
 22/09/2022 - Completamento di configurazione di un router, connessione al router via ssh, possibilità di interagire con l'esterno.
-Proseguimento degli esercizi con netcat
+Proseguimento degli esercizi con netcat.
+
+23/09/2022 - Esercitazione sulla creazione di una sottorete, proseguimento degli esercizi con netcat, studio delle sessioni HTTP.
