@@ -32,3 +32,7 @@ REST and HTTP aren't the same thing, types of scopes, hoisting.
 
 27/09/2022 - How to design a REST API, Design patterns for modern web APIs, studio di javascript: primitives vs objects, array destructuring,
 object destructuring, spread operator.
+
+28/09/2022 - Studio typescript, creazione di una REST API
+
+29/09/2022 - typical HHTP session, Connection management in HTTP/1.x, HTTP cookies
