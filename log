@@ -36,3 +36,5 @@ object destructuring, spread operator.
 28/09/2022 - Studio typescript, creazione di una REST API
 
 29/09/2022 - typical HHTP session, Connection management in HTTP/1.x, HTTP cookies
+
+30/09/2022 - HTTP caching
