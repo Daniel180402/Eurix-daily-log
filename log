@@ -57,5 +57,5 @@ object destructuring, spread operator.
 
 12/10/2022 - Studio transpiler, frontend javascript nel tempo, versioni node
 
-13/10/2022 - 
+13/10/2022 - Testing con diverse versioni di node, studio packeage.json, linters
 
