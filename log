@@ -86,3 +86,7 @@ object destructuring, spread operator.
 02/11/2022 - Studio Angular: ngSwitch, ngStyle, ngClass, Component interaction parent-->child, parent-->child
 
 03/11/2022 - Studio Angular: Template variables, Directives, pipe functions
+
+04/11/2022 - Studio Angular: Services, routing
+
+07/11/2022 - Studio Angular: Routing with parameters, routing for loading sub-components
